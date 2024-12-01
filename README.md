@@ -11,9 +11,9 @@ Find me at <a href="https://dlimon.net" target="_blank">dlimon.net</a> and dani@
 <img src="https://emojis.slackmojis.com/emojis/images/1643514746/7532/tux.png?1643514746" alt="tux_icon" width="20">  Linux
 
 ## My passions
-<img src="https://emojis.slackmojis.com/emojis/images/1643514746/7532/tux.png?1643514746" alt="tux_icon" width="20"> Linux & FOSS (Free and Open Source Software)
-<img src="https://emojis.slackmojis.com/emojis/images/1643514324/2967/api.png?1643514324" alt="api_icon" width="20"> API design and development
-<img src="https://emojis.slackmojis.com/emojis/images/1645846310/54348/line_chart.png?1645846310" alt="chart_icon" width="20"> Economic analysis software development  
+<img src="https://emojis.slackmojis.com/emojis/images/1643514746/7532/tux.png?1643514746" alt="tux_icon" width="20"> Linux & FOSS (Free and Open Source Software)  
+<img src="https://emojis.slackmojis.com/emojis/images/1643514324/2967/api.png?1643514324" alt="api_icon" width="20"> API design and development  
+<img src="https://emojis.slackmojis.com/emojis/images/1645846310/54348/line_chart.png?1645846310" alt="chart_icon" width="20"> Economic analysis software development
 
 
 
